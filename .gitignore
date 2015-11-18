@@ -1,3 +1,5 @@
 data/var
 data/backups
 *.war
+jenkins-enterprise
+1.609.14.1
